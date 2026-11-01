@@ -1,41 +1,45 @@
-### Hallo, ich bin Mehmet Fatih Dagli 👋
+## Mehmet Fatih Dagli
 
-Informatikstudent (B.Sc. Informatik) an der **Hochschule Bonn-Rhein-Sieg** und auf der Suche nach einer **Werkstudentenstelle in der Softwareentwicklung** (Raum Bonn/Köln oder remote).
+Informatikstudent (B.Sc. Informatik) an der Hochschule Bonn-Rhein-Sieg. Ich suche eine **Werkstudentenstelle** im Raum Bonn/Köln oder remote.
 
-Ich entwickle gerne vollständige Produkte von Anfang bis Ende: vom Datenmodell über das Backend bis zu einer durchdachten, ruhigen Benutzeroberfläche. Die meisten meiner Projekte sind Local-First-Desktop- und Web-Apps, dazu kommen Data-Science- und Simulationsprojekte aus dem Studium.
+Dabei bin ich offen für unterschiedliche Aufgabenbereiche, insbesondere:
 
----
+- Software- und Webentwicklung (Frontend, Backend, Desktop)
+- Prozessautomatisierung und interne Tools
+- Integration von KI-Assistenten in Geschäftsprozesse
+- Datenanalyse und Dokumentenverarbeitung
 
-### 🛠️ Technologien
+Ich entwickle Anwendungen gerne vollständig, vom Datenmodell über das Backend bis zur Benutzeroberfläche. Mehrere meiner Projekte sind für reale kleine Unternehmen entstanden.
 
-**Sprachen:** JavaScript / TypeScript · Python · Rust · Swift · HTML/CSS
-**Frontend:** React · Svelte · Three.js / react-three-fiber · PWA
-**Desktop & Tooling:** Tauri · Electron · Chrome-Erweiterungen (Manifest V3) · Vite
-**Backend & Daten:** Node.js · SQLite · IndexedDB · Docker · REST-APIs
-**Sonstiges:** OCR & PDF-Verarbeitung (PDFKit, Vision, Tesseract) · Datenanalyse · Simulation
+### Technologien
 
----
+| Bereich | Technologien |
+| --- | --- |
+| Sprachen | JavaScript, TypeScript, Python, Rust, Swift, HTML/CSS |
+| Frontend | React, Svelte, Three.js, Progressive Web Apps |
+| Desktop und Tooling | Tauri, Electron, Chrome-Erweiterungen (Manifest V3), Vite |
+| Backend und Daten | Node.js, SQLite, IndexedDB, Docker, REST-APIs |
+| Weitere Schwerpunkte | Automatisierung, OCR und PDF-Verarbeitung (PDFKit, Vision, Tesseract), Datenanalyse, Simulation |
 
-### 🚀 Ausgewählte Projekte
+### Ausgewählte Projekte
 
-| Projekt | Beschreibung | Stack |
+| Projekt | Beschreibung | Technologien |
 | --- | --- | --- |
-| [**Chronologos**](https://github.com/fdagli01/Chronologos) | Ein persönlicher „Gedankenatlas“: Lesenotizen werden zu Sternen in einem 3D-Himmel, Verbindungen zwischen Notizen zu Sternbildern. Goodreads-Import, Open-Library-Anbindung, komplett lokales Archiv. | React, Three.js, Node, SQLite, Electron |
-| [**Via Ethos**](https://github.com/fdagli01/Viaethos) | Ein Local-First-„Life OS“ für den Desktop: Gewohnheiten, Fokus-Timer, Aufgaben und Tagebücher in einem gemeinsamen Punktesystem; der Tag wird als gemalte Landschaft dargestellt. | Rust, Tauri, Svelte, TypeScript |
-| [**Agoraswipe**](https://github.com/fdagli01/Agoraswipe) · [Demo](https://fdagli01.github.io/Agoraswipe/) | „Brainscrolling statt Doomscrolling“: ein Snap-Feed im Stil von Kurzvideo-Apps mit belegten Ideen aus Philosophie und Geschichte, fünf Karten pro Tag. Offlinefähige PWA. | HTML, JavaScript, PWA |
+| [Mentakraft](https://mentakraft.com) | Mehrsprachige Website (Deutsch, Englisch, Türkisch) für ein Angebot rund um Websites, Geschäftsautomatisierung und KI-Assistenten für kleine Unternehmen. | HTML, CSS, JavaScript |
+| [Chronologos](https://github.com/fdagli01/Chronologos) | Lokale Anwendung, die Lesenotizen als Sterne in einem 3D-Himmel darstellt und Verbindungen zwischen Gedanken sichtbar macht. Goodreads-Import und Open-Library-Anbindung. | React, Three.js, Node.js, SQLite, Electron |
+| [Via Ethos](https://github.com/fdagli01/Viaethos) | Local-First-Desktopanwendung, die Gewohnheiten, Fokuszeiten, Aufgaben und Tagesprotokolle in einem gemeinsamen Punktesystem zusammenführt. | Rust, Tauri, Svelte, TypeScript |
+| [Agoraswipe](https://github.com/fdagli01/Agoraswipe) ([Demo](https://fdagli01.github.io/Agoraswipe/)) | Mobile Web-App mit kurzen, belegten Inhalten aus Philosophie und Geschichte als bewusste Alternative zu endlosen Feeds. Offlinefähige PWA. | HTML, JavaScript |
 
-**Private Projekte** (Code auf Anfrage):
+**Nicht öffentliche Projekte** (Code auf Anfrage):
 
-- **Sweethaus**: Tagesbetrieb und umsatzsteuergerechte Buchhaltungsvorbereitung für eine kleine Bäckerei: Verkaufserfassung, Tagesabschluss, Rechnungseingang mit lokaler OCR. *(JavaScript, Docker)*
-- **Fahrnowbalance**: monatliche GuV-Auswertung für ein kleines Mietwagenunternehmen, mit Lohnjournal-Import und PDF/OCR-Dokumentenverarbeitung. *(Python, SQLite, Swift)*
-- **Pluteus**: Offline-Reader für PDF und EPUB mit umbrochenen PDFs, OCR auf dem Gerät, Notizen und Vorlesefunktion. *(JavaScript, Swift)*
-- **Polyglot Chronicle**: Chrome-Erweiterung, die Vokabellernen mit Spaced Repetition in ein historisches Schreibtischspiel verwandelt. *(React, Vite, IndexedDB)*
-- **Unsupervised Behaviour Mapping**: Data-Science-Projekt im Studium; Nachimplementierung der MotionMapper-Pipeline auf Pose-Tracking-Daten. *(Python)*
+- **Sweethaus**: Webanwendung für den Tagesbetrieb einer Bäckerei mit Verkaufserfassung, Tagesabschluss, Rechnungseingang mit lokaler OCR und umsatzsteuergerechter Auswertung für die Buchhaltung. *(JavaScript, Docker)*
+- **Fahrnowbalance**: Monatliche GuV-Auswertung für ein Mietwagenunternehmen mit Lohnjournal-Import und automatischer Verarbeitung von PDF-Dokumenten. *(Python, SQLite, Swift)*
+- **Pluteus**: Offline-Reader für PDF und EPUB mit Neuumbruch von PDFs, lokaler Texterkennung, Notizen und Vorlesefunktion. *(JavaScript, Swift)*
+- **Polyglot Chronicle**: Chrome-Erweiterung zum Vokabellernen mit Spaced Repetition. *(React, Vite, IndexedDB)*
+- **Unsupervised Behaviour Mapping**: Data-Science-Projekt im Studium zur Erkennung von Tierverhalten aus Pose-Tracking-Daten (MotionMapper). *(Python)*
 
----
+### Kontakt
 
-### 📫 Kontakt
+E-Mail: mehmetfatihdagli200@gmail.com
 
-- E-Mail: mehmetfatihdagli200@gmail.com
-
-Sprachen: Deutsch · Englisch · Türkisch
+Sprachen: Deutsch, Englisch, Türkisch
