@@ -11,6 +11,8 @@ Dabei bin ich offen für unterschiedliche Aufgabenbereiche, insbesondere:
 
 Ich entwickle Anwendungen gerne vollständig, vom Datenmodell über das Backend bis zur Benutzeroberfläche. Mehrere meiner Projekte sind für reale kleine Unternehmen entstanden.
 
+In meiner Arbeit setze ich KI-Agenten wie Claude Code, OpenAI Codex und Gemini gezielt ein, etwa für Implementierung, Code-Reviews und Recherche. Architektur, Prüfung und Verantwortung für das Ergebnis bleiben dabei bei mir.
+
 ### Technologien
 
 | Bereich | Technologien |
@@ -19,6 +21,7 @@ Ich entwickle Anwendungen gerne vollständig, vom Datenmodell über das Backend 
 | Frontend | React, Svelte, Three.js, Progressive Web Apps |
 | Desktop und Tooling | Tauri, Electron, Chrome-Erweiterungen (Manifest V3), Vite |
 | Backend und Daten | Node.js, SQLite, IndexedDB, Docker, REST-APIs |
+| KI-gestützte Entwicklung | Claude Code, OpenAI Codex, Gemini (Antigravity), Koordination mehrerer KI-Agenten |
 | Weitere Schwerpunkte | Automatisierung, OCR und PDF-Verarbeitung (PDFKit, Vision, Tesseract), Datenanalyse, Simulation |
 
 ### Ausgewählte Projekte
