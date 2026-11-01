@@ -31,6 +31,7 @@ In meiner Arbeit setze ich KI-Agenten wie Claude Code, OpenAI Codex und Gemini g
 | [Mentakraft](https://mentakraft.com) | Mehrsprachige Website (Deutsch, Englisch, Türkisch) für ein Angebot rund um Websites, Geschäftsautomatisierung und KI-Assistenten für kleine Unternehmen. | HTML, CSS, JavaScript |
 | [Chronologos](https://github.com/fdagli01/Chronologos) | Lokale Anwendung, die Lesenotizen als Sterne in einem 3D-Himmel darstellt und Verbindungen zwischen Gedanken sichtbar macht. Goodreads-Import und Open-Library-Anbindung. | React, Three.js, Node.js, SQLite, Electron |
 | [Via Ethos](https://github.com/fdagli01/Viaethos) | Local-First-Desktopanwendung, die Gewohnheiten, Fokuszeiten, Aufgaben und Tagesprotokolle in einem gemeinsamen Punktesystem zusammenführt. | Rust, Tauri, Svelte, TypeScript |
+| [Defter](https://github.com/fdagli01/defter) | Erzählerisches Lernspiel für Russisch: Ein Enkel folgt 1979 in Moskau dem Tagebuch seines Großvaters aus den Jahren 1943–45. Kapitelweise aufgebaut, mit eigener Pipeline für Bilder und KI-generierte Sprachausgabe. | HTML, JavaScript, Python, Swift |
 | [Agoraswipe](https://github.com/fdagli01/Agoraswipe) ([Demo](https://fdagli01.github.io/Agoraswipe/)) | Mobile Web-App mit kurzen, belegten Inhalten aus Philosophie und Geschichte als bewusste Alternative zu endlosen Feeds. Offlinefähige PWA. | HTML, JavaScript |
 
 **Nicht öffentliche Projekte** (Code auf Anfrage):
