@@ -39,7 +39,7 @@ In meiner Arbeit setze ich KI-Agenten wie Claude Code, OpenAI Codex und Gemini g
 - **Fahrnowbalance**: Monatliche GuV-Auswertung für ein Mietwagenunternehmen mit Lohnjournal-Import und automatischer Verarbeitung von PDF-Dokumenten. *(Python, SQLite, Swift)*
 - **Pluteus**: Offline-Reader für PDF und EPUB mit Neuumbruch von PDFs, lokaler Texterkennung, Notizen und Vorlesefunktion. *(JavaScript, Swift)*
 - **Polyglot Chronicle**: Chrome-Erweiterung zum Vokabellernen mit Spaced Repetition. *(React, Vite, IndexedDB)*
-- **[Defter](https://github.com/fdagli01/defter)** (in Entwicklung): Erzählerisches Lernspiel für Russisch, in dem ein Enkel 1979 in Moskau dem Tagebuch seines Großvaters aus den Jahren 1943–45 folgt. Kapitelweise aufgebaut, mit eigener Pipeline für Bilder und KI-generierte Sprachausgabe. *(HTML, JavaScript, Python, Swift)*
+- **Defter** (in Entwicklung): Erzählerisches Lernspiel für Russisch, in dem ein Enkel 1979 in Moskau dem Tagebuch seines Großvaters aus den Jahren 1943–45 folgt. Kapitelweise aufgebaut, mit eigener Pipeline für Bilder und KI-generierte Sprachausgabe. *(HTML, JavaScript, Python, Swift)*
 - **Unsupervised Behaviour Mapping**: Data-Science-Projekt im Studium zur Erkennung von Tierverhalten aus Pose-Tracking-Daten (MotionMapper). *(Python)*
 
 ### Kontakt
