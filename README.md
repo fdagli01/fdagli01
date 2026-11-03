@@ -44,6 +44,6 @@ In meiner Arbeit setze ich KI-Agenten wie Claude Code, OpenAI Codex und Gemini g
 
 ### Kontakt
 
-E-Mail: mehmetfatihdagli200@gmail.com
+E-Mail: fdagli002@gmail.com
 
 Sprachen: Deutsch, Englisch, Türkisch
