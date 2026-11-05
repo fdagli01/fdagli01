@@ -2,6 +2,8 @@
 
 Informatikstudent (B.Sc. Informatik) an der Hochschule Bonn-Rhein-Sieg. Ich suche eine **Werkstudentenstelle** im Raum Bonn/Köln oder remote.
 
+**Portfolio mit Projektvideos:** [fdagli01.github.io](https://fdagli01.github.io)
+
 Dabei bin ich offen für unterschiedliche Aufgabenbereiche, insbesondere:
 
 - Software- und Webentwicklung (Frontend, Backend, Desktop)
